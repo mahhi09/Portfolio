@@ -94,6 +94,7 @@ import { init } from '@emailjs/browser';
         <p className='mt-1 text-gray-400 text-[5px] sm:text-lg '>
          I love turning ideas into scalable, user‑friendly products that make an impact.
         </p>
+        <
       </motion.div>
    
 
