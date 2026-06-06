@@ -87,7 +87,7 @@ import { init } from '@emailjs/browser';
         <h3 className="text-2xl sm:text-3xl font-bold text-white mt-1 " >
           About Me
         </h3>
-        <p className='text-gray-300 leading-relaxed text-base sm:text-lg sm:text-lg '>
+        <p className='text-gray-300 leading-relaxed text-base sm:text-lg '>
           I’m a Software Developer, Content Creator, and Web Developer — passionate about building fast, resilient applications and sharing coding insights on Instagram and YouTube.
         </p>
 
