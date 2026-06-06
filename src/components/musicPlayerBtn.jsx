@@ -4,8 +4,9 @@ import { Pause, Play } from "lucide-react";
 import song1 from "../assets/music/song1.mp3";
 import song2 from "../assets/music/song2.mp3";
 import song3 from "../assets/music/song3.mp3";
+import song4 from "../assets/music/song4.mp3";
 
-const songs = [song1, song2, song3];
+const songs = [song1, song2, song3, song4];
 
 export default function MusicPlayerBtn() {
   const [playing, setPlaying] = useState(false);
