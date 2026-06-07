@@ -11,15 +11,13 @@ export default function Footer() {
         
         {/* Brand Information Column */}
         <div className="max-w-96">
-          <div className="text-xl font-bold tracking-tight text-white mb-4 flex mx-2 items-center justify-center">
+          <div className="text-xl font-bold tracking-tight text-white mb-4 flex mx-2 items-start justify-center">
              <img src={Logo} alt="Logo" className='w-10 h-10 object-contain' />
 
             Mahhi
           </div>
           
-          <p className="text-sm leading-relaxed font-extrabold text-white shadow-blue-700">
-            Made By : Shrutika Raut & Mayank Dandare
-          </p>
+         
         </div>
         
 
